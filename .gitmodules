@@ -1,0 +1,6 @@
+[submodule "MisaleBack"]
+	path = MisaleBack
+	url = https://github.com/hailat1998/MaisaleBack.git
+[submodule "MisaleAndroid"]
+	path = MisaleAndroid
+	url = git@github.com:hailat1998/Mhd.git
